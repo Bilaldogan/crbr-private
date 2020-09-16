@@ -1,0 +1,11 @@
+framework module Crowbar {
+  umbrella header "Crowbar.h"
+
+  export *
+  module * { export * }
+}
+
+module Crowbar.Swift {
+    header "Crowbar-Swift.h"
+    requires objc
+}
