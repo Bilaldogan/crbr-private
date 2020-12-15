@@ -6,15 +6,15 @@
 	<dict>
 		<key>CrowBarCoreDataModel.momd/CrowBarCoreDataModel.mom</key>
 		<data>
-		LbTUDjuXpcYwqlwcOgSvKPB6rT8=
+		uXjcDmkyAJ+SLZQflHvdnJgEcPc=
 		</data>
 		<key>CrowBarCoreDataModel.momd/VersionInfo.plist</key>
 		<data>
-		Qf8PWJFZRo8NnocpPavjNYkTaqc=
+		9IeHbW7oo6BO65jKbqVAZHuiKB0=
 		</data>
 		<key>Headers/Crowbar-Swift.h</key>
 		<data>
-		2vzLQTSLMIpDSmIj4SA71GvxbjQ=
+		op8muVwDEGmqRoHY96yX9JJQ/gM=
 		</data>
 		<key>Headers/Crowbar.h</key>
 		<data>
@@ -22,67 +22,91 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zlad3zcI6v2RMFcU8YjgPgp4yVU=
+		vtH+dVCx3DHLrJHPU4SfF8pVdtA=
 		</data>
 		<key>Modules/Crowbar.swiftmodule/Project/arm.swiftsourceinfo</key>
 		<data>
-		PKsdBYqOuxOymifrtYjInKdBK4A=
+		Js4RtZY3PSvd87J4g1zZd4CZsIs=
 		</data>
 		<key>Modules/Crowbar.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		d02S9VZzJLMruWA55Pw4gwqiuQY=
+		T4NLDNdJUl0YlDz5oAuHJZG0qpk=
 		</data>
 		<key>Modules/Crowbar.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		d02S9VZzJLMruWA55Pw4gwqiuQY=
+		T4NLDNdJUl0YlDz5oAuHJZG0qpk=
 		</data>
 		<key>Modules/Crowbar.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<data>
-		PKsdBYqOuxOymifrtYjInKdBK4A=
+		Js4RtZY3PSvd87J4g1zZd4CZsIs=
 		</data>
 		<key>Modules/Crowbar.swiftmodule/Project/armv7.swiftsourceinfo</key>
 		<data>
-		PKsdBYqOuxOymifrtYjInKdBK4A=
+		Js4RtZY3PSvd87J4g1zZd4CZsIs=
+		</data>
+		<key>Modules/Crowbar.swiftmodule/Project/armv7s-apple-ios.swiftsourceinfo</key>
+		<data>
+		7iASkVcQKlNBswiYfbXjfgrxCX8=
+		</data>
+		<key>Modules/Crowbar.swiftmodule/Project/armv7s.swiftsourceinfo</key>
+		<data>
+		7iASkVcQKlNBswiYfbXjfgrxCX8=
 		</data>
 		<key>Modules/Crowbar.swiftmodule/arm.swiftdoc</key>
 		<data>
-		6WqVQE0mAvIq76zwaK1VLI8ka5w=
+		AKvvrE8KhrKBXT8BJmCYFJ6tyL4=
 		</data>
 		<key>Modules/Crowbar.swiftmodule/arm.swiftmodule</key>
 		<data>
-		tgHZ8ejLYW7PVuXR+4PmM233unY=
+		7XtHOkAyA8qOo+b06pQIqsm74w4=
 		</data>
 		<key>Modules/Crowbar.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		OOz4pVzy8lODH7m/0g6wO1uaLAo=
+		0KjhXivz/TL9RrqJ6w0GU7cHVDc=
 		</data>
 		<key>Modules/Crowbar.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		gZbkjV8ExPgJyQf7Xo3vd/uWK1U=
+		MKwQ5edvomuJmr2bgkAmEGCplGI=
 		</data>
 		<key>Modules/Crowbar.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		OOz4pVzy8lODH7m/0g6wO1uaLAo=
+		0KjhXivz/TL9RrqJ6w0GU7cHVDc=
 		</data>
 		<key>Modules/Crowbar.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		gZbkjV8ExPgJyQf7Xo3vd/uWK1U=
+		MKwQ5edvomuJmr2bgkAmEGCplGI=
 		</data>
 		<key>Modules/Crowbar.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
-		6WqVQE0mAvIq76zwaK1VLI8ka5w=
+		AKvvrE8KhrKBXT8BJmCYFJ6tyL4=
 		</data>
 		<key>Modules/Crowbar.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		tgHZ8ejLYW7PVuXR+4PmM233unY=
+		7XtHOkAyA8qOo+b06pQIqsm74w4=
 		</data>
 		<key>Modules/Crowbar.swiftmodule/armv7.swiftdoc</key>
 		<data>
-		6WqVQE0mAvIq76zwaK1VLI8ka5w=
+		AKvvrE8KhrKBXT8BJmCYFJ6tyL4=
 		</data>
 		<key>Modules/Crowbar.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		tgHZ8ejLYW7PVuXR+4PmM233unY=
+		7XtHOkAyA8qOo+b06pQIqsm74w4=
+		</data>
+		<key>Modules/Crowbar.swiftmodule/armv7s-apple-ios.swiftdoc</key>
+		<data>
+		n9mE1dQj3DYxLnxw2/9o4OqNwUg=
+		</data>
+		<key>Modules/Crowbar.swiftmodule/armv7s-apple-ios.swiftmodule</key>
+		<data>
+		pF/Wt+PwKDtYAFYagpjkKfxgIpI=
+		</data>
+		<key>Modules/Crowbar.swiftmodule/armv7s.swiftdoc</key>
+		<data>
+		n9mE1dQj3DYxLnxw2/9o4OqNwUg=
+		</data>
+		<key>Modules/Crowbar.swiftmodule/armv7s.swiftmodule</key>
+		<data>
+		pF/Wt+PwKDtYAFYagpjkKfxgIpI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -95,33 +119,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LbTUDjuXpcYwqlwcOgSvKPB6rT8=
+			uXjcDmkyAJ+SLZQflHvdnJgEcPc=
 			</data>
 			<key>hash2</key>
 			<data>
-			KoELGr/kyLuVnpSOyosIdMsnbg3WsrWtXVU36b2bujo=
+			dcIz+8Pt6StWFLC3f8mKiMjvKfKBu/RZYXDMhc8rHD8=
 			</data>
 		</dict>
 		<key>CrowBarCoreDataModel.momd/VersionInfo.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Qf8PWJFZRo8NnocpPavjNYkTaqc=
+			9IeHbW7oo6BO65jKbqVAZHuiKB0=
 			</data>
 			<key>hash2</key>
 			<data>
-			uwJxdqaPZL4J+C41Se5MEBtuX5RJ/LgATThxzCFahdo=
+			ZWT0dOKg63ozlRRPey/PW+fMUSRQieKe4MpLZpIKCnQ=
 			</data>
 		</dict>
 		<key>Headers/Crowbar-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2vzLQTSLMIpDSmIj4SA71GvxbjQ=
+			op8muVwDEGmqRoHY96yX9JJQ/gM=
 			</data>
 			<key>hash2</key>
 			<data>
-			zfHEkBZBV4gtQOMMinBb3oPxRJPD6maNLe8cR0QPUPM=
+			xlq6N4qjX8pNjc0VWbfari+zVDOFYFmeIxlFmFGLS2M=
 			</data>
 		</dict>
 		<key>Headers/Crowbar.h</key>
@@ -139,165 +163,231 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PKsdBYqOuxOymifrtYjInKdBK4A=
+			Js4RtZY3PSvd87J4g1zZd4CZsIs=
 			</data>
 			<key>hash2</key>
 			<data>
-			qHL1dN10b2W6bZsdPmS38Rvs0rfc3COR7rhF+ZUATyY=
+			hpyX+Uo3fj2sA8e4gBMXl744zNZ+ERFLF4WHCognfOg=
 			</data>
 		</dict>
 		<key>Modules/Crowbar.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d02S9VZzJLMruWA55Pw4gwqiuQY=
+			T4NLDNdJUl0YlDz5oAuHJZG0qpk=
 			</data>
 			<key>hash2</key>
 			<data>
-			EYNknklUcDxESRW3cDU2zyrKsCrH7rapoixmaFKHyEU=
+			Yzvja2gyPTRhycmuks3jv65mNZBFcx8TUESMKk695UQ=
 			</data>
 		</dict>
 		<key>Modules/Crowbar.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d02S9VZzJLMruWA55Pw4gwqiuQY=
+			T4NLDNdJUl0YlDz5oAuHJZG0qpk=
 			</data>
 			<key>hash2</key>
 			<data>
-			EYNknklUcDxESRW3cDU2zyrKsCrH7rapoixmaFKHyEU=
+			Yzvja2gyPTRhycmuks3jv65mNZBFcx8TUESMKk695UQ=
 			</data>
 		</dict>
 		<key>Modules/Crowbar.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PKsdBYqOuxOymifrtYjInKdBK4A=
+			Js4RtZY3PSvd87J4g1zZd4CZsIs=
 			</data>
 			<key>hash2</key>
 			<data>
-			qHL1dN10b2W6bZsdPmS38Rvs0rfc3COR7rhF+ZUATyY=
+			hpyX+Uo3fj2sA8e4gBMXl744zNZ+ERFLF4WHCognfOg=
 			</data>
 		</dict>
 		<key>Modules/Crowbar.swiftmodule/Project/armv7.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PKsdBYqOuxOymifrtYjInKdBK4A=
+			Js4RtZY3PSvd87J4g1zZd4CZsIs=
 			</data>
 			<key>hash2</key>
 			<data>
-			qHL1dN10b2W6bZsdPmS38Rvs0rfc3COR7rhF+ZUATyY=
+			hpyX+Uo3fj2sA8e4gBMXl744zNZ+ERFLF4WHCognfOg=
+			</data>
+		</dict>
+		<key>Modules/Crowbar.swiftmodule/Project/armv7s-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7iASkVcQKlNBswiYfbXjfgrxCX8=
+			</data>
+			<key>hash2</key>
+			<data>
+			bu9PGG2ugEKF+I+OW8sQ2PSaimaZYCULie+2+GaAKCQ=
+			</data>
+		</dict>
+		<key>Modules/Crowbar.swiftmodule/Project/armv7s.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7iASkVcQKlNBswiYfbXjfgrxCX8=
+			</data>
+			<key>hash2</key>
+			<data>
+			bu9PGG2ugEKF+I+OW8sQ2PSaimaZYCULie+2+GaAKCQ=
 			</data>
 		</dict>
 		<key>Modules/Crowbar.swiftmodule/arm.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6WqVQE0mAvIq76zwaK1VLI8ka5w=
+			AKvvrE8KhrKBXT8BJmCYFJ6tyL4=
 			</data>
 			<key>hash2</key>
 			<data>
-			iwtX08jEcZF+vi3/wz3v+j11pPBuDprwMUNjp3yS/KE=
+			nbxlCpfIqJ4jimCroXFhBR0CY3oywGe0MT2DhmQFWwc=
 			</data>
 		</dict>
 		<key>Modules/Crowbar.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tgHZ8ejLYW7PVuXR+4PmM233unY=
+			7XtHOkAyA8qOo+b06pQIqsm74w4=
 			</data>
 			<key>hash2</key>
 			<data>
-			6kCiHrdSCqOWCLkRd20+Gqe/R7i51stzmwC6bqUyIy0=
+			t1XD+7fh3LR003n7okLPTOXNxGMAFna3dSBtCu9+d5k=
 			</data>
 		</dict>
 		<key>Modules/Crowbar.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OOz4pVzy8lODH7m/0g6wO1uaLAo=
+			0KjhXivz/TL9RrqJ6w0GU7cHVDc=
 			</data>
 			<key>hash2</key>
 			<data>
-			OCVTbStUFF9B8rQ8g4i7Pouu4TOBj3ARM6G8dH/TaEQ=
+			TpnNJkS1teKgPOmc5mRMWWH0ypa9DhXDfGNGR9tzoFY=
 			</data>
 		</dict>
 		<key>Modules/Crowbar.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gZbkjV8ExPgJyQf7Xo3vd/uWK1U=
+			MKwQ5edvomuJmr2bgkAmEGCplGI=
 			</data>
 			<key>hash2</key>
 			<data>
-			oBh+ej6pm5ZiwGsbkktW0k124k1FIUCGY5p1Okg/ZLM=
+			Hocix6aUdz0WOfwPQHlA0rHPMYMCFnAxddGKenoR+mA=
 			</data>
 		</dict>
 		<key>Modules/Crowbar.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OOz4pVzy8lODH7m/0g6wO1uaLAo=
+			0KjhXivz/TL9RrqJ6w0GU7cHVDc=
 			</data>
 			<key>hash2</key>
 			<data>
-			OCVTbStUFF9B8rQ8g4i7Pouu4TOBj3ARM6G8dH/TaEQ=
+			TpnNJkS1teKgPOmc5mRMWWH0ypa9DhXDfGNGR9tzoFY=
 			</data>
 		</dict>
 		<key>Modules/Crowbar.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gZbkjV8ExPgJyQf7Xo3vd/uWK1U=
+			MKwQ5edvomuJmr2bgkAmEGCplGI=
 			</data>
 			<key>hash2</key>
 			<data>
-			oBh+ej6pm5ZiwGsbkktW0k124k1FIUCGY5p1Okg/ZLM=
+			Hocix6aUdz0WOfwPQHlA0rHPMYMCFnAxddGKenoR+mA=
 			</data>
 		</dict>
 		<key>Modules/Crowbar.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6WqVQE0mAvIq76zwaK1VLI8ka5w=
+			AKvvrE8KhrKBXT8BJmCYFJ6tyL4=
 			</data>
 			<key>hash2</key>
 			<data>
-			iwtX08jEcZF+vi3/wz3v+j11pPBuDprwMUNjp3yS/KE=
+			nbxlCpfIqJ4jimCroXFhBR0CY3oywGe0MT2DhmQFWwc=
 			</data>
 		</dict>
 		<key>Modules/Crowbar.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tgHZ8ejLYW7PVuXR+4PmM233unY=
+			7XtHOkAyA8qOo+b06pQIqsm74w4=
 			</data>
 			<key>hash2</key>
 			<data>
-			6kCiHrdSCqOWCLkRd20+Gqe/R7i51stzmwC6bqUyIy0=
+			t1XD+7fh3LR003n7okLPTOXNxGMAFna3dSBtCu9+d5k=
 			</data>
 		</dict>
 		<key>Modules/Crowbar.swiftmodule/armv7.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6WqVQE0mAvIq76zwaK1VLI8ka5w=
+			AKvvrE8KhrKBXT8BJmCYFJ6tyL4=
 			</data>
 			<key>hash2</key>
 			<data>
-			iwtX08jEcZF+vi3/wz3v+j11pPBuDprwMUNjp3yS/KE=
+			nbxlCpfIqJ4jimCroXFhBR0CY3oywGe0MT2DhmQFWwc=
 			</data>
 		</dict>
 		<key>Modules/Crowbar.swiftmodule/armv7.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tgHZ8ejLYW7PVuXR+4PmM233unY=
+			7XtHOkAyA8qOo+b06pQIqsm74w4=
 			</data>
 			<key>hash2</key>
 			<data>
-			6kCiHrdSCqOWCLkRd20+Gqe/R7i51stzmwC6bqUyIy0=
+			t1XD+7fh3LR003n7okLPTOXNxGMAFna3dSBtCu9+d5k=
+			</data>
+		</dict>
+		<key>Modules/Crowbar.swiftmodule/armv7s-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n9mE1dQj3DYxLnxw2/9o4OqNwUg=
+			</data>
+			<key>hash2</key>
+			<data>
+			7YblT0q6Th+CD9M7zxyESYFBHr4Bw0DfWWGQm/mJH/0=
+			</data>
+		</dict>
+		<key>Modules/Crowbar.swiftmodule/armv7s-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pF/Wt+PwKDtYAFYagpjkKfxgIpI=
+			</data>
+			<key>hash2</key>
+			<data>
+			FwJl1b+ZmxiJcrviVvbg2j2pLoE6wdhdEYwgptc5TWs=
+			</data>
+		</dict>
+		<key>Modules/Crowbar.swiftmodule/armv7s.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n9mE1dQj3DYxLnxw2/9o4OqNwUg=
+			</data>
+			<key>hash2</key>
+			<data>
+			7YblT0q6Th+CD9M7zxyESYFBHr4Bw0DfWWGQm/mJH/0=
+			</data>
+		</dict>
+		<key>Modules/Crowbar.swiftmodule/armv7s.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pF/Wt+PwKDtYAFYagpjkKfxgIpI=
+			</data>
+			<key>hash2</key>
+			<data>
+			FwJl1b+ZmxiJcrviVvbg2j2pLoE6wdhdEYwgptc5TWs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
